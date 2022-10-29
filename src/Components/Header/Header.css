@@ -1,0 +1,17 @@
+
+
+.header-container nav a {
+    text-decoration: none;
+    margin: 20px;
+    color: aquamarine;
+    background-color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.header-container nav a:hover{
+color: goldenrod;
+}
+.header-container nav {
+    margin-top: 20px;
+}
